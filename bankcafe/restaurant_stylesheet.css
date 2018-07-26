@@ -35,22 +35,23 @@
              margin: 0;
              padding: 0px 0;
              background-color:#DDDDDD;
-             text-align:center;
+             text-align: center;
              font-size:18px;
     }
     #starters{
-            font-family: Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", "sans-serif";
-            float: left;
-    		width: 33%;
-    		padding: 10px;
-    		height: 300px; 
-			text-align: center;
+		
+         font-family: Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", "sans-serif";
+         float: left;
+         width: 33%;
+    	 padding: 10px;
+    	 height: 300px; 
+		 text-align: center;
 				
 }
     #mains{
             
 		font-family: Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", "sans-serif";       
-             float: left;
+        float: left;
    	 	width: 33%;
     	padding: 10px;
     	height: 300px; 
@@ -61,7 +62,7 @@
 		font-family: Cambria,Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", "sans-serif";         
         float: right;
     	width: 33%;
-  		padding: 7px;
+  		padding: 10px;
     	height: 300px; 
 		text-align: center; 
 			
@@ -70,7 +71,7 @@
              margin: 0;
              padding: 10px 0;
              background-color:#DDDDDD;
-             text-align:center;
+             text-align: center;
              font-size:18px;
     }
 
@@ -84,10 +85,10 @@
          white-space: nowrap;
          border-right: 1px #EBEBEB solid;
          padding: 3px 15px 4px 15px;
-         color:white;
-         text-decoration:none;
+         color: white;
+         text-decoration: none;
          }
-#navbar a:hover{
+#navbar a: hover{
             background-color: #EBEBEB;  
              color: #336666;
              border-right: 3px #999999 solid;
@@ -96,6 +97,6 @@
              }
 #adheader{  background-color: #5B6A84;
 
-           text-align: center;
+         text-align: center;
          padding: 30px;
            }
